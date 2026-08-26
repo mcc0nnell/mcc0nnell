@@ -1,4 +1,4 @@
-# Rob McConnell
+# Robert McConnell
 
 **Infrastructure • software assurance • accessibility • open source**
 
