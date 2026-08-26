@@ -1,4 +1,4 @@
-# Robert McConnell
+# Rob McConnell
 
 **Infrastructure • software assurance • accessibility • open source**
 
@@ -9,10 +9,12 @@ Make the machine path boring. Make the evidence undeniable.
 ## Current work
 
 ### [Gitflare](https://github.com/mcc0nnell/gitflare)
-Minimal Git control plane on Cloudflare Artifacts. Policy, short-lived credentials, statuses, Workflow/Sandbox handoff. GitHub remains the human forge. Cloudflare owns the machine path.
+Minimal Git control plane on Cloudflare. Policy, short-lived credentials, statuses, Workflow/Sandbox handoff. GitHub remains the human forge. Cloudflare owns the machine path.
 
 ### Software assurance
-Putting fail-closed release evidence into [FireCrab](https://github.com/SteelCrab/firecrab): SPDX SBOMs from installed package databases, corresponding-source archives bound by SHA-256, license inventories that will not publish without their source siblings. [awesome-federal-tech](https://github.com/mcc0nnell/awesome-federal-tech) is the practitioner map for OSCAL, SBOM, ATO, and experimental infrastructure.
+Fail-closed release evidence on [FireCrab](https://github.com/SteelCrab/firecrab): SPDX SBOMs from installed package databases, corresponding-source archives bound by SHA-256, license inventories that will not publish without their source siblings. Same pattern on [Apache Camel K](https://github.com/apache/camel-k/pull/6777): artifact-bound CycloneDX SBOMs, keyless Cosign attestations, and a consumer-side `TRUST` / `REJECT` verifier on the nightly path.
+
+[awesome-federal-tech](https://github.com/mcc0nnell/awesome-federal-tech) is the practitioner map for OSCAL, SBOM, ATO, and experimental infrastructure.
 
 ### Open source
 Upstream work on Firecracker microVM ops, Cloudflare-native CI, Sandia TalkPipe/Wiretap, and NIST Metaschema. [Yeet](https://github.com/mcc0nnell/yeet) is the agent shipping contract: shortest compliant path, then prove the remote state landed.
