@@ -19,7 +19,7 @@ Same pattern on [Apache Camel K](https://github.com/apache/camel-k/pull/6777): a
 [awesome-federal-tech](https://github.com/mcc0nnell/awesome-federal-tech) is the practitioner map for OSCAL, SBOM, ATO, and experimental infrastructure. Repos you can clone — not slideware.
 
 ### Open source
-Upstream on [Cloudflare CI](https://github.com/cloudflare/ci/pull/5), [Sandia TalkPipe](https://github.com/sandialabs/talkpipe/pull/80) / [Wiretap](https://github.com/sandialabs/wiretap/pull/112), and [NIST Metaschema](https://github.com/usnistgov/metaschema-java/pull/428). [Yeet](https://github.com/mcc0nnell/yeet) is the agent shipping contract: shortest compliant path, then prove the remote state landed.
+Upstream on [Cloudflare CI](https://github.com/cloudflare/ci/pull/5), [Apache Iceberg Terraform](https://github.com/apache/terraform-provider-iceberg/pull/105), [Sandia TalkPipe](https://github.com/sandialabs/talkpipe/pull/80) / [Wiretap](https://github.com/sandialabs/wiretap/pull/112), and [NIST Metaschema](https://github.com/usnistgov/metaschema-java/pull/428). [Yeet](https://github.com/mcc0nnell/yeet) is the agent shipping contract: shortest compliant path, then prove the remote state landed.
 
 ### Accessibility + telecom
 [ACE Omni](https://github.com/mcc0nnell/ace-omni-cf) resurrects MITRE's TRS laboratory on Cloudflare. Experiment authority stays out of the runtime. The same Omni Core fixtures produce equivalent semantic traces on Cloudflare, JAIN SLEE, and Elixip. Evidence is pinned and replayable.
