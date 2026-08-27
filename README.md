@@ -21,7 +21,7 @@ The pattern is consistent: **source → artifact → SBOM → digest → attesta
 
 ### Open-source infrastructure
 
-Upstream work across [Cloudflare CI](https://github.com/cloudflare/ci/pull/5), [Apache Iceberg Terraform](https://github.com/apache/terraform-provider-iceberg/pull/105), [Sandia TalkPipe](https://github.com/sandialabs/talkpipe/pull/80), [Sandia Wiretap](https://github.com/sandialabs/wiretap/pull/112), and [NIST Metaschema](https://github.com/usnistgov/metaschema-java/pull/428).
+Upstream work across [Cloudflare CI](https://github.com/cloudflare/ci/pull/5), [Apache Iceberg Terraform](https://github.com/apache/terraform-provider-iceberg/pull/105), and [NIST Metaschema](https://github.com/usnistgov/metaschema-java/pull/428).
 
 [Yeet](https://github.com/mcc0nnell/yeet) is a small agent shipping contract: take the shortest compliant path, then prove the remote state actually landed.
 
