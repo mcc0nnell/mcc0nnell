@@ -29,7 +29,17 @@ Upstream work across [Cloudflare CI](https://github.com/cloudflare/ci/pull/5), [
 
 ### Accessibility + telecom
 
-[ACE Omni](https://github.com/mcc0nnell/ace-omni-cf) rebuilds MITRE’s telecommunications relay service laboratory around a runtime-independent experiment model. The same fixtures can produce equivalent semantic traces across Cloudflare, JAIN SLEE, and Elixip, with evidence pinned and replayable.
+I was a **key contributor to the MITRE/FCC ACE portfolio**, a public research stack for accessible telecommunications, relay-service experimentation, real-time text and video, interoperability testing, instrumentation, and operational tooling.
+
+The public [MITRE FCC ACE portfolio](https://github.com/mitrefccace) spans:
+
+- **Accessible communications clients and media:** [ACE Connect Lite](https://github.com/mitrefccace/aceconnectlite), [ACE Connect Lite public](https://github.com/mitrefccace/aceconnectlite-public), [FCC VATRP](https://github.com/mitrefccace/fcc-vatrp), [VATRP WebRTC](https://github.com/mitrefccace/fcc-vatrp-webrtc), [ACE Quill](https://github.com/mitrefccace/ace-quill), and [ACE Quill Keyboard](https://github.com/mitrefccace/ace-quill-keyboard).
+- **Experiment, measurement, and analysis:** [ACE Omni](https://github.com/mitrefccace/ace-omni), [VATRP Log Analysis](https://github.com/mitrefccace/fcc-vatrp-log-analysis), [ACR Demo Agent](https://github.com/mitrefccace/acrdemo-agent), [ACR Demo Provider](https://github.com/mitrefccace/acrdemo-provider), and [Data Logger](https://github.com/mitrefccace/data-logger).
+- **Platform and operations:** [Hashconfig](https://github.com/mitrefccace/hashconfig), [Autoinstall](https://github.com/mitrefccace/autoinstall), and the [project site repository](https://github.com/mitrefccace/mitrefccace.github.io).
+
+The earlier ACE platform also included the **ACE Direct, Asterisk, ESB, management portal, ACR/CDR, application server, and user server** components; public mirrors of that generation remain available across GitHub.
+
+[ACE Omni on Cloudflare](https://github.com/mcc0nnell/ace-omni-cf) is my current continuation of that work: rebuilding the laboratory around a runtime-independent experiment model so the same fixtures can produce equivalent semantic traces across Cloudflare, JAIN SLEE, and Elixip, with evidence pinned and replayable.
 
 ## Working with
 
