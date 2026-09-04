@@ -8,6 +8,15 @@ I build systems at the seams between **source code, execution, evidence, and pub
 
 ## Current work
 
+### Apache contribution trail
+
+[![Iceberg — Release Identity](https://img.shields.io/badge/Apache%20Iceberg-Release%20Identity-informational?style=flat-square)](https://github.com/apache/terraform-provider-iceberg/pull/105)
+[![Celix — Reproducible Dependency State](https://img.shields.io/badge/Apache%20Celix-Reproducible%20Dependency%20State-informational?style=flat-square)](https://github.com/apache/celix/pull/845)
+[![Camel K — Artifact-Bound Assurance](https://img.shields.io/badge/Apache%20Camel%20K-Artifact--Bound%20Assurance-informational?style=flat-square)](https://github.com/apache/camel-k/pull/6777)
+[![Maven Parent — Inherited Release Policy](https://img.shields.io/badge/Apache%20Maven-Inherited%20Release%20Policy-informational?style=flat-square)](https://github.com/apache/maven-apache-parent/pull/597)
+
+Small upstream changes at the authority boundary: release identity, reproducible dependency state, artifact-bound evidence, and inherited release policy.
+
 ### Software assurance
 
 I’m interested in a simple question: **can a downstream consumer prove that the artifact they received is the artifact the project intended to release?**
