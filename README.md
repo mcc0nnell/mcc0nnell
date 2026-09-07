@@ -23,7 +23,7 @@ The current harness uses **JAIN SIP** as a glass-box signaling instrument, **San
 
 Together they point toward a larger goal: **accessible calling as interoperable public infrastructure rather than a collection of isolated applications**.
 
-### WindAnvil
+### [WindAnvil](https://windanvil.com)
 
 **WindAnvil** is an independent clean-lab software assurance authority: give it an immutable source object and it returns policy-bound evidence of what was actually proven — **PASS, FAIL, or BLOCKED**.
 
