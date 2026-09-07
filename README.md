@@ -13,6 +13,12 @@ The work keeps converging on two questions:
 
 ## Current systems
 
+### [WindAnvil](https://windanvil.com)
+
+**WindAnvil** is an independent clean-lab software assurance authority: give it an immutable source object and it returns policy-bound evidence of what was actually proven — **PASS, FAIL, or BLOCKED**.
+
+The model is intentionally separate from the build system under test. Reproducibility, SBOMs, provenance, attestations, policy evaluation, and preserved evidence belong to an independent verification path, not a self-reported green check.
+
 ### [Baudot](https://github.com/mcc0nnell/baudot) + [Tilden](https://github.com/mcc0nnell/tilden)
 
 **Baudot** is an open-source proving ground for interoperable accessible real-time communications. It starts with behavior: deterministic **T.140 real-time text** semantics and test vectors, then layers SIP/RFC 4103, WebRTC, gateways, and application integrations on top.
@@ -22,12 +28,6 @@ The current harness uses **JAIN SIP** as a glass-box signaling instrument, **San
 **Tilden** is the companion project for **federated identity, addressing, discovery, and capability resolution**. Baudot answers *what accessible communication behavior must occur*; Tilden addresses *how endpoints and capabilities are found and resolved across a federation*.
 
 Together they point toward a larger goal: **accessible calling as interoperable public infrastructure rather than a collection of isolated applications**.
-
-### [WindAnvil](https://windanvil.com)
-
-**WindAnvil** is an independent clean-lab software assurance authority: give it an immutable source object and it returns policy-bound evidence of what was actually proven — **PASS, FAIL, or BLOCKED**.
-
-The model is intentionally separate from the build system under test. Reproducibility, SBOMs, provenance, attestations, policy evaluation, and preserved evidence belong to an independent verification path, not a self-reported green check.
 
 ### [HORN](https://github.com/mcc0nnell/horn)
 
