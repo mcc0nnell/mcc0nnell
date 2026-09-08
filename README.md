@@ -83,3 +83,13 @@ The public [MITRE FCC ACE organization](https://github.com/mitrefccace) includes
 Recent: [Why Apache Matters: The Infrastructure Beneath the Infrastructure](https://mcc0nnell.org/apache)
 
 More at **[mcc0nnell.org](https://mcc0nnell.org)**.
+
+## Temporary Secretariat NOAA relay
+
+- [2026-07-03-r1](https://a07516d7.mcc0nnell-org.pages.dev/noaa-relay?mode=selection&at=2026-07-03T17%3A12%3A00Z)
+- [2026-07-10-r1](https://a07516d7.mcc0nnell-org.pages.dev/noaa-relay?mode=selection&at=2026-07-10T17%3A12%3A00Z)
+- [2026-07-16-r2](https://a07516d7.mcc0nnell-org.pages.dev/noaa-relay?mode=selection&at=2026-07-16T17%3A50%3A00Z)
+- [2026-07-30-r1](https://a07516d7.mcc0nnell-org.pages.dev/noaa-relay?mode=selection&at=2026-07-30T17%3A12%3A00Z)
+- [2026-08-08-r1](https://a07516d7.mcc0nnell-org.pages.dev/noaa-relay?mode=selection&at=2026-08-08T15%3A50%3A00Z)
+- [2026-08-23-r4](https://a07516d7.mcc0nnell-org.pages.dev/noaa-relay?mode=selection&at=2026-08-23T18%3A55%3A00Z)
+- [2026-08-23-r6](https://a07516d7.mcc0nnell-org.pages.dev/noaa-relay?mode=selection&at=2026-08-23T20%3A28%3A00Z)
